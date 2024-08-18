@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.item {
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(222, 240, 172);
+    text-align: start;
+  }
