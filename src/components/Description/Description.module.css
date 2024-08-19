@@ -1,0 +1,23 @@
+.title {
+    font-size: 40px;
+    font-weight: 900;
+    color: cornflowerblue;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .spamTitle {
+    color: rgb(209, 206, 20);
+  }
+
+  p {
+    font-size: 18px;
+    color: #555;
+  }
+
+  .container {
+    text-align: center;
+    margin-bottom: 20px;
+    border: 3px solid rgb(109, 10, 101); 
+    padding: 10px; 
+  }
